@@ -24,6 +24,7 @@ Small, focused utilities. All ESM, zero or minimal dependencies.
 
 | Package | Description |
 |---------|-------------|
+| [@prsm/cron](https://github.com/nvms/cron) | Redis-backed distributed cron scheduler with leader election and cron expression support |
 | [@prsm/queue](https://github.com/nvms/queue) | Redis-backed distributed task queue with per-tenant grouped concurrency |
 | [@prsm/limit](https://github.com/nvms/limit) | Redis-backed rate limiting - token bucket, sliding window, leaky bucket |
 | [@prsm/from](https://github.com/nvms/from) | Fluent, immutable query builder for arrays of objects |
