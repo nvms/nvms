@@ -31,6 +31,7 @@ Small, focused utilities. All ESM, zero or minimal dependencies.
 | [@prsm/limit](https://github.com/nvms/limit) | Redis-backed rate limiting - token bucket, sliding window, leaky bucket |
 | [@prsm/from](https://github.com/nvms/from) | Fluent, immutable query builder for arrays of objects |
 | [@prsm/fsm](https://github.com/nvms/fsm) | Non-deterministic finite state machine with persistence |
+| [@prsm/workflow](https://github.com/nvms/workflow) | Durable workflow engine with explicit steps, persisted execution state, retries, and inspectable history |
 | [@prsm/hash](https://github.com/nvms/hash) | Salted string hashing with self-describing hash format |
 | [@prsm/ids](https://github.com/nvms/ids) | Reversible integer-to-short-string obfuscation |
 | [@prsm/ms](https://github.com/nvms/ms) | Human-friendly time expression parser |
