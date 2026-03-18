@@ -23,7 +23,7 @@ Small, focused utilities. All ESM, zero or minimal dependencies.
 | Package | Description |
 |---------|-------------|
 | [@prsm/realtime](https://github.com/nvms/realtime) | Distributed WebSocket framework with Redis-backed rooms, records, presence, channels, collections, and persistence |
-| [prsm-devtools](https://github.com/nvms/devtools) | Development-time state inspector for @prsm/realtime servers |
+| [@prsm/devtools](https://github.com/nvms/devtools) | Read-only Express middleware dashboard for observing @prsm infrastructure at runtime |
 | [@prsm/cron](https://github.com/nvms/cron) | Redis-backed distributed cron scheduler with leader election and cron expression support |
 | [@prsm/queue](https://github.com/nvms/queue) | Redis-backed distributed task queue with per-tenant grouped concurrency |
 | [@prsm/limit](https://github.com/nvms/limit) | Redis-backed rate limiting - token bucket, sliding window, leaky bucket |
