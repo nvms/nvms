@@ -4,10 +4,6 @@ Hello.
 
 ## Projects
 
-### [mesh-kit](https://github.com/nvms/mesh)
-
-Distributed WebSocket server + client built on Redis. Rooms, pub/sub channels with history, versioned records with JSON Patch diffs, presence, collections. Multi-instance routing via Redis pubsub.
-
 ### [@eaccess/auth](https://github.com/nvms/eaccess)
 
 Postgres-backed auth for Express. Sessions, remember-me, email verification, password reset, OAuth (GitHub/Google/Azure), role bitmasks, 2FA (TOTP + email/SMS OTP + backup codes), activity logging.
@@ -26,6 +22,7 @@ Small, focused utilities. All ESM, zero or minimal dependencies.
 
 | Package | Description |
 |---------|-------------|
+| [@prsm/realtime](https://github.com/nvms/realtime) | Distributed WebSocket framework with Redis-backed rooms, records, presence, channels, collections, and persistence |
 | [@prsm/cron](https://github.com/nvms/cron) | Redis-backed distributed cron scheduler with leader election and cron expression support |
 | [@prsm/queue](https://github.com/nvms/queue) | Redis-backed distributed task queue with per-tenant grouped concurrency |
 | [@prsm/limit](https://github.com/nvms/limit) | Redis-backed rate limiting - token bucket, sliding window, leaky bucket |
