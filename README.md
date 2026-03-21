@@ -16,7 +16,7 @@ Composable, provider-agnostic LLM workflow library. Functional pipelines over im
 
 Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode rendering with flexbox layout, double-buffered cell diffing, and minimal ANSI output. Zero dependencies.
 
-### prsm
+### [prsm](https://github.com/prsmjs)
 
 Small, focused utilities. All ESM, zero or minimal dependencies.
 
