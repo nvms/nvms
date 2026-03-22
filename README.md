@@ -55,6 +55,12 @@ Composable spatial data structures for JavaScript. Every index implements the sa
 
 Live game state inspector. TUI application for real-time process memory visualization, built on procmod.
 
+### [schism](https://github.com/nvms/schism)
+
+![ci](https://github.com/nvms/schism/actions/workflows/ci.yml/badge.svg)
+
+Spectral fractal path tracer. Renders 3D fractal geometry using SDF raymarching and physically-based spectral path tracing via Vulkan compute shaders. Deterministic seed-based output.
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
