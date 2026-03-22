@@ -63,7 +63,7 @@ Composable runtime game instrumentation primitives for Rust. Process memory, pat
 
 ## Archived
 
-### [jsondelta](https://github.com/jsondelta) (archived)
+### [jsondelta](https://github.com/jsondelta)
 
 Reversible JSON diffing, patching, and merging. The WASM serialization boundary made it slower than pure JS alternatives.
 
