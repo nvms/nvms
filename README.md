@@ -49,16 +49,6 @@ Composable spatial data structures for JavaScript. Every index implements the sa
 | [@gridworkjs/kd](https://github.com/gridworkjs/kd) | ![test](https://github.com/gridworkjs/kd/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/kd) | KD-tree for static point sets and nearest-neighbor queries |
 | [@gridworkjs/query](https://github.com/gridworkjs/query) | ![test](https://github.com/gridworkjs/query/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/query) | Higher-level queries (radius, knn, ray, within) against any index |
 
-### [jsondelta](https://github.com/jsondelta)
-
-The fastest JSON structural operations in any JavaScript runtime. Zig-powered diffing, patching, and merging with WebAssembly and pure JS fallback.
-
-| Package | | | Description |
-|---------|---|---|-------------|
-| [@jsondelta/diff](https://github.com/jsondelta/diff) | ![test](https://github.com/jsondelta/diff/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@jsondelta/diff) | Structural JSON diffing with Zig-compiled WebAssembly engine |
-| [@jsondelta/patch](https://github.com/jsondelta/patch) | ![test](https://github.com/jsondelta/patch/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@jsondelta/patch) | Patch application and delta inversion |
-| [@jsondelta/merge](https://github.com/jsondelta/merge) | ![test](https://github.com/jsondelta/merge/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@jsondelta/merge) | Three-way merge with conflict detection |
-
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
@@ -70,3 +60,15 @@ Composable runtime game instrumentation primitives for Rust. Process memory, pat
 | [procmod-layout](https://github.com/procmod/procmod-layout) | ![test](https://github.com/procmod/procmod-layout/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-layout) | Struct mapping with pointer chain traversal via derive macros |
 | [procmod-hook](https://github.com/procmod/hook) | ![test](https://github.com/procmod/hook/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-hook) | Inline function hooking and detouring |
 | [procmod-overlay](https://github.com/procmod/overlay) | ![test](https://github.com/procmod/overlay/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-overlay) | Game overlay rendering with transparent click-through windows |
+
+## Archived
+
+### [jsondelta](https://github.com/jsondelta) (archived)
+
+Reversible JSON diffing, patching, and merging. The WASM serialization boundary made it slower than pure JS alternatives.
+
+| Package | | Description |
+|---------|---|-------------|
+| [@jsondelta/diff](https://github.com/jsondelta/diff) | ![npm](https://img.shields.io/npm/v/@jsondelta/diff) | Structural JSON diffing with reversible deltas |
+| [@jsondelta/patch](https://github.com/jsondelta/patch) | ![npm](https://img.shields.io/npm/v/@jsondelta/patch) | Patch application and delta inversion |
+| [@jsondelta/merge](https://github.com/jsondelta/merge) | ![npm](https://img.shields.io/npm/v/@jsondelta/merge) | Three-way merge with conflict detection |
