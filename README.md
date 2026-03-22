@@ -65,7 +65,7 @@ Composable runtime game instrumentation primitives for Rust. Process memory, pat
 | Crate | | | Description |
 |-------|---|---|-------------|
 | [procmod-core](https://github.com/procmod/procmod-core) | ![test](https://github.com/procmod/procmod-core/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-core) | Cross-platform process memory read/write |
-| [procmod-scan](https://github.com/procmod/procmod-scan) | ![test](https://github.com/procmod/procmod-scan/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-scan) | Pattern and signature scanning with SIMD acceleration |
+| [procmod-scan](https://github.com/procmod/procmod-scan) | ![test](https://github.com/procmod/procmod-scan/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-scan) | Fast pattern and signature scanning for byte slices |
 | [procmod-layout](https://github.com/procmod/procmod-layout) | ![test](https://github.com/procmod/procmod-layout/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-layout) | Struct mapping with pointer chain traversal via derive macros |
 | [procmod-hook](https://github.com/procmod/hook) | ![test](https://github.com/procmod/hook/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-hook) | Inline function hooking and detouring |
 | [procmod-overlay](https://github.com/procmod/overlay) | ![test](https://github.com/procmod/overlay/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-overlay) | Game overlay rendering with transparent click-through windows |
