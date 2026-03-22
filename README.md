@@ -35,3 +35,16 @@ Small, focused utilities. All ESM, zero or minimal dependencies.
 | [@prsm/hash](https://github.com/prsmjs/hash) | ![test](https://github.com/prsmjs/hash/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/hash) | Salted string hashing with self-describing hash format |
 | [@prsm/ids](https://github.com/prsmjs/ids) | ![test](https://github.com/prsmjs/ids/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/ids) | Reversible integer-to-short-string obfuscation |
 | [@prsm/ms](https://github.com/prsmjs/ms) | ![test](https://github.com/prsmjs/ms/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/ms) | Human-friendly time expression parser |
+
+### [gridwork](https://github.com/gridworkjs)
+
+Composable spatial data structures for JavaScript. Every index implements the same query interface - learn one API, pick the data structure that fits your access pattern.
+
+| Package | | | Description |
+|---------|---|---|-------------|
+| [@gridworkjs/core](https://github.com/gridworkjs/core) | ![test](https://github.com/gridworkjs/core/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/core) | Geometry primitives (point, rect, circle) and spatial index protocol |
+| [@gridworkjs/quadtree](https://github.com/gridworkjs/quadtree) | ![test](https://github.com/gridworkjs/quadtree/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/quadtree) | Quadtree spatial index for sparse, uneven point and region data |
+| [@gridworkjs/rtree](https://github.com/gridworkjs/rtree) | ![test](https://github.com/gridworkjs/rtree/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/rtree) | R-tree spatial index with bulk loading for rectangles and polygons |
+| [@gridworkjs/hashgrid](https://github.com/gridworkjs/hashgrid) | ![test](https://github.com/gridworkjs/hashgrid/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/hashgrid) | Spatial hash grid for uniform distributions and fast neighbor lookups |
+| [@gridworkjs/kd](https://github.com/gridworkjs/kd) | ![test](https://github.com/gridworkjs/kd/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/kd) | KD-tree for static point sets and nearest-neighbor queries |
+| [@gridworkjs/query](https://github.com/gridworkjs/query) | ![test](https://github.com/gridworkjs/query/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/query) | Higher-level queries (radius, knn, ray, within) against any index |
