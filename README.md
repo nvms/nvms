@@ -49,6 +49,14 @@ Composable spatial data structures for JavaScript. Every index implements the sa
 | [@gridworkjs/kd](https://github.com/gridworkjs/kd) | ![test](https://github.com/gridworkjs/kd/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/kd) | KD-tree for static point sets and nearest-neighbor queries |
 | [@gridworkjs/query](https://github.com/gridworkjs/query) | ![test](https://github.com/gridworkjs/query/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/query) | Higher-level queries (radius, knn, ray, within) against any index |
 
+### [jsondelta](https://github.com/jsondelta)
+
+The fastest JSON structural operations in any JavaScript runtime. Zig-powered diffing, patching, and merging with WebAssembly and pure JS fallback.
+
+| Package | | | Description |
+|---------|---|---|-------------|
+| [@jsondelta/diff](https://github.com/jsondelta/diff) | ![test](https://github.com/jsondelta/diff/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@jsondelta/diff) | Structural JSON diffing with Zig-compiled WebAssembly engine |
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
