@@ -49,7 +49,9 @@ Composable spatial data structures for JavaScript. Every index implements the sa
 | [@gridworkjs/kd](https://github.com/gridworkjs/kd) | ![test](https://github.com/gridworkjs/kd/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/kd) | KD-tree for static point sets and nearest-neighbor queries |
 | [@gridworkjs/query](https://github.com/gridworkjs/query) | ![test](https://github.com/gridworkjs/query/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@gridworkjs/query) | Higher-level queries (radius, knn, ray, within) against any index |
 
-### [sigwatch](https://github.com/nvms/sigwatch) ![test](https://github.com/nvms/sigwatch/actions/workflows/ci.yml/badge.svg)
+### [sigwatch](https://github.com/nvms/sigwatch)
+
+![test](https://github.com/nvms/sigwatch/actions/workflows/ci.yml/badge.svg)
 
 Live game state inspector. TUI application for real-time process memory visualization, built on procmod.
 
