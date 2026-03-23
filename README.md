@@ -67,6 +67,12 @@ Spectral fractal path tracer. Renders 3D fractal geometry using SDF raymarching 
 
 Interactive 3D terrain generation explorer. Implements gradient-trick and DLA mountain generation techniques with real-time parameter tweaking and orbit camera controls.
 
+### [zphp](https://github.com/nvms/zphp)
+
+![ci](https://github.com/nvms/zphp/actions/workflows/ci.yml/badge.svg)
+
+Zig-based PHP runtime. What bun is to Node, zphp is to PHP. Runtime, package manager, test runner, formatter, and binary compiler in a single fast binary.
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
