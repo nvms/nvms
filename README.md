@@ -61,6 +61,12 @@ Live game state inspector. TUI application for real-time process memory visualiz
 
 Spectral fractal path tracer. Renders 3D fractal geometry using SDF raymarching and physically-based spectral path tracing via Vulkan compute shaders. Deterministic seed-based output.
 
+### [ridgeview](https://github.com/nvms/ridgeview)
+
+![ci](https://github.com/nvms/ridgeview/actions/workflows/ci.yml/badge.svg)
+
+Interactive 3D terrain generation explorer. Implements gradient-trick and DLA mountain generation techniques with real-time parameter tweaking and orbit camera controls.
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
