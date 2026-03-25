@@ -14,11 +14,11 @@ Composable, provider-agnostic LLM workflow library. Functional pipelines over im
 
 ### [trend](https://github.com/nvms/trendr)
 
-Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode rendering with flexbox layout, double-buffered cell diffing, and minimal ANSI output. Zero dependencies.
+Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode rendering with flexbox layout, double-buffered cell diffing, and minimal ANSI output.
 
 ### [prsm](https://github.com/prsmjs)
 
-Small, focused utilities. All ESM, zero or minimal dependencies.
+Small, focused utilities. All ESM.
 
 | Package | | | Description |
 |---------|---|---|-------------|
@@ -72,7 +72,13 @@ Interactive 3D terrain generation explorer. Implements gradient-trick and DLA mo
 
 ![ci](https://github.com/nvms/zphp/actions/workflows/ci.yml/badge.svg)
 
-Zig-based PHP runtime. What bun is to Node, zphp is to PHP. Runtime, package manager, test runner, formatter, and binary compiler in a single fast binary.
+Zig-based PHP runtime with built-in HTTP server, package manager, test runner, formatter, and binary compiler.
+
+### [pyr](https://github.com/nvms/pyr)
+
+![ci](https://github.com/nvms/pyr/actions/workflows/ci.yml/badge.svg)
+
+A systems programming language with scripting ergonomics, built in Zig. Compiles to native code. No GC, arena-scoped memory, lightweight concurrency, structural typing, UFCS, pattern matching, pipeline operator.
 
 ### [procmod](https://github.com/procmod)
 
