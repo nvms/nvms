@@ -34,6 +34,7 @@ Small, focused utilities. All ESM, zero or minimal dependencies.
 | [@prsm/workflow](https://github.com/prsmjs/workflow) | ![test](https://github.com/prsmjs/workflow/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/workflow) | Durable workflow engine with explicit steps, persisted execution state, retries, and inspectable history |
 | [@prsm/hash](https://github.com/prsmjs/hash) | ![test](https://github.com/prsmjs/hash/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/hash) | Salted string hashing with self-describing hash format |
 | [@prsm/ids](https://github.com/prsmjs/ids) | ![test](https://github.com/prsmjs/ids/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/ids) | Reversible integer-to-short-string obfuscation |
+| [@prsm/log](https://github.com/prsmjs/log) | ![test](https://github.com/prsmjs/log/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/log) | Structured logging with child contexts |
 | [@prsm/ms](https://github.com/prsmjs/ms) | ![test](https://github.com/prsmjs/ms/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/ms) | Human-friendly time expression parser |
 
 ### [gridwork](https://github.com/gridworkjs)
