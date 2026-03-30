@@ -78,7 +78,7 @@ Zig-based PHP runtime with built-in HTTP server, package manager, test runner, f
 
 ![ci](https://github.com/nvms/pyr/actions/workflows/ci.yml/badge.svg)
 
-A systems programming language with scripting ergonomics, built in Zig. Compiles to native code. No GC, arena-scoped memory, lightweight concurrency, structural typing, UFCS, pattern matching, pipeline operator.
+Systems programming language with scripting ergonomics, built in Zig. Bytecode VM with NaN-boxed values, mark-sweep GC, arena-scoped memory for hot paths, green threads, algebraic types with pattern matching, UFCS, structural traits. Stdlib covers IO, networking, HTTP, TLS, and JSON. Ships with a package manager, formatter, and LSP.
 
 ### [procmod](https://github.com/procmod)
 
