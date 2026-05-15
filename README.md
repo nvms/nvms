@@ -24,6 +24,7 @@ Small, focused utilities. All ESM.
 |---------|---|---|-------------|
 | [@prsm/realtime](https://github.com/prsmjs/realtime) | ![test](https://github.com/prsmjs/realtime/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/realtime) | Distributed WebSocket framework with Redis-backed rooms, records, presence, channels, collections, and persistence |
 | [@prsm/devtools](https://github.com/prsmjs/devtools) | | ![npm](https://img.shields.io/npm/v/@prsm/devtools) | Read-only Express middleware dashboard for observing @prsm infrastructure at runtime |
+| [@prsm/substrate](https://github.com/prsmjs/substrate) | ![test](https://github.com/prsmjs/substrate/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/substrate) | Distribution for stamping out independent personal-software platforms - a runtime, a CLI, and a project template |
 | [@prsm/cron](https://github.com/prsmjs/cron) | ![test](https://github.com/prsmjs/cron/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/cron) | Redis-backed distributed cron scheduler with leader election and cron expression support |
 | [@prsm/queue](https://github.com/prsmjs/queue) | ![test](https://github.com/prsmjs/queue/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/queue) | Redis-backed distributed task queue with per-tenant grouped concurrency |
 | [@prsm/lock](https://github.com/prsmjs/lock) | ![test](https://github.com/prsmjs/lock/actions/workflows/test.yml/badge.svg) | ![npm](https://img.shields.io/npm/v/@prsm/lock) | Distributed locking primitives for Redis - mutex and semaphore |
@@ -68,6 +69,12 @@ Spectral fractal path tracer. Renders 3D fractal geometry using SDF raymarching 
 
 Interactive 3D terrain generation explorer. Implements gradient-trick and DLA mountain generation techniques with real-time parameter tweaking and orbit camera controls.
 
+### [clod](https://github.com/nvms/clod)
+
+![ci](https://github.com/nvms/clod/actions/workflows/ci.yml/badge.svg)
+
+Model-agnostic AI coding CLI written in Zig. Connects to LLM APIs (Anthropic, OpenAI, Google, or any OpenAI-compatible endpoint) and provides an interactive agentic loop with built-in tools for reading, writing, editing, and searching code.
+
 ### [zphp](https://github.com/nvms/zphp)
 
 ![ci](https://github.com/nvms/zphp/actions/workflows/ci.yml/badge.svg)
@@ -79,6 +86,16 @@ Zig-based PHP runtime with built-in HTTP server, package manager, test runner, f
 ![ci](https://github.com/nvms/pyr/actions/workflows/ci.yml/badge.svg)
 
 Systems programming language with scripting ergonomics, built in Zig. Bytecode VM with NaN-boxed values, mark-sweep GC, arena-scoped memory for hot paths, green threads, algebraic types with pattern matching, UFCS, structural traits. Stdlib covers IO, networking, HTTP, TLS, and JSON. Ships with a package manager, formatter, and LSP.
+
+### [gitcat](https://github.com/nvms/gitcat)
+
+Self-hosted git server written in fur. Push, clone, and browse repositories over HTTP with a built-in web interface for viewing commit history, diffs, and syntax-highlighted source.
+
+### [ti](https://github.com/nvms/ti)
+
+![test](https://github.com/nvms/ti/actions/workflows/test.yml/badge.svg)
+
+Functional language with pipe-first syntax that compiles to C. Algebraic types, Hindley-Milner inference, and a `metal` qualifier for runtime-free in-process systems work (DLLs, hooks, plugins). One language, one type system, both sides of the wall.
 
 ### [procmod](https://github.com/procmod)
 
