@@ -104,6 +104,12 @@ Functional language with pipe-first syntax that compiles to C. Algebraic types, 
 
 Pastel-toned Vue 3 component library covering primitives, forms, overlays, navigation, and data display, with a dedicated tier for AI tooling: token views, cost estimators, diff viewers, retrieval and citation displays, and evaluation scorecards. The full showcase is published at [nvms.github.io/pastel-vue](https://nvms.github.io/pastel-vue/).
 
+### [huly-mcp](https://github.com/nvms/huly-mcp)
+
+![ci](https://github.com/nvms/huly-mcp/actions/workflows/ci.yml/badge.svg)
+
+Local MCP server that lets Claude manage a self-hosted Huly instance from a conversation: reading and updating issues, tracking estimated and actual time, leaving comments, and working the planner.
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
