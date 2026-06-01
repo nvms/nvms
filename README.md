@@ -98,6 +98,12 @@ Self-hosted git server written in fur. Push, clone, and browse repositories over
 
 Functional language with pipe-first syntax that compiles to C. Algebraic types, Hindley-Milner inference, and a `metal` qualifier for runtime-free in-process systems work (DLLs, hooks, plugins). One language, one type system, both sides of the wall.
 
+### [pastel-vue](https://github.com/nvms/pastel-vue)
+
+![ci](https://github.com/nvms/pastel-vue/actions/workflows/ci.yml/badge.svg)
+
+Pastel-toned Vue 3 component library covering primitives, forms, overlays, navigation, and data display, with a dedicated tier for AI tooling: token views, cost estimators, diff viewers, retrieval and citation displays, and evaluation scorecards. The full showcase is published at [nvms.github.io/pastel-vue](https://nvms.github.io/pastel-vue/).
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
