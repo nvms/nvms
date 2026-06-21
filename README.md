@@ -76,12 +76,6 @@ Spectral fractal path tracer. Renders 3D fractal geometry using SDF raymarching 
 
 Interactive 3D terrain generation explorer. Implements gradient-trick and DLA mountain generation techniques with real-time parameter tweaking and orbit camera controls.
 
-### [clod](https://github.com/nvms/clod)
-
-![ci](https://github.com/nvms/clod/actions/workflows/ci.yml/badge.svg)
-
-Model-agnostic AI coding CLI written in Zig. Connects to LLM APIs (Anthropic, OpenAI, Google, or any OpenAI-compatible endpoint) and provides an interactive agentic loop with built-in tools for reading, writing, editing, and searching code.
-
 ### [zphp](https://github.com/nvms/zphp)
 
 ![ci](https://github.com/nvms/zphp/actions/workflows/ci.yml/badge.svg)
