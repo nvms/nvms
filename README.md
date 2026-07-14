@@ -8,6 +8,12 @@ Hello.
 
 Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode rendering with flexbox layout, double-buffered cell diffing, and minimal ANSI output.
 
+### [pico](https://github.com/nvms/pico)
+
+![npm](https://img.shields.io/npm/v/picocode)
+
+Terminal-native coding agent with multi-provider model support, persistent and rewindable sessions, project-aware instructions, integrated development tools, MCP integration, and extensible commands and skills. Built with [trend](https://github.com/nvms/trendr) and [@prsm/ai](https://github.com/prsmjs/ai).
+
 ### [prsm](https://github.com/prsmjs)
 
 Small, focused utilities. All ESM.
