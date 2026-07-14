@@ -4,14 +4,6 @@ Hello.
 
 ## Projects
 
-### [@eaccess/auth](https://github.com/nvms/eaccess)
-
-Postgres-backed auth for Express. Sessions, remember-me, email verification, password reset, OAuth (GitHub/Google/Azure), role bitmasks, 2FA (TOTP + email/SMS OTP + backup codes), activity logging.
-
-### [@threaded/ai](https://github.com/nvms/threaded)
-
-Composable, provider-agnostic LLM workflow library. Functional pipelines over immutable conversation contexts. Supports OpenAI, Anthropic, Gemini, xAI, Ollama. Tool execution with approval, streaming, structured outputs, threads, embeddings, image generation, MCP integration.
-
 ### [trend](https://github.com/nvms/trendr)
 
 Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode rendering with flexbox layout, double-buffered cell diffing, and minimal ANSI output.
@@ -123,6 +115,14 @@ Composable runtime game instrumentation primitives for Rust. Process memory, pat
 | [procmod-overlay](https://github.com/procmod/overlay) | ![test](https://github.com/procmod/overlay/actions/workflows/test.yml/badge.svg) | ![crates.io](https://img.shields.io/crates/v/procmod-overlay) | Game overlay rendering with transparent click-through windows |
 
 ## Archived
+
+### [@eaccess/auth](https://github.com/nvms/eaccess)
+
+Postgres-backed auth for Express. Sessions, remember-me, email verification, password reset, OAuth (GitHub/Google/Azure), role bitmasks, 2FA (TOTP + email/SMS OTP + backup codes), activity logging. Archived in favor of [@prsm/auth](https://github.com/prsmjs/auth).
+
+### [@threaded/ai](https://github.com/nvms/threaded)
+
+Composable, provider-agnostic LLM workflow library. Functional pipelines over immutable conversation contexts. Supports OpenAI, Anthropic, Gemini, xAI, Ollama. Tool execution with approval, streaming, structured outputs, threads, embeddings, image generation, MCP integration. Archived in favor of [@prsm/ai](https://github.com/prsmjs/ai).
 
 ### [jsondelta](https://github.com/jsondelta)
 
