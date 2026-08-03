@@ -88,6 +88,8 @@ Zig-based PHP runtime with built-in HTTP server, package manager, test runner, f
 
 ### [gitcat](https://github.com/nvms/gitcat)
 
+[![ci](https://github.com/nvms/gitcat/actions/workflows/ci.yml/badge.svg)](https://github.com/nvms/gitcat/actions/workflows/ci.yml)
+
 Self-hosted git server. Push, clone, and browse repositories over HTTP with a built-in web interface for viewing commit history, diffs, and syntax-highlighted source.
 
 ### [ti](https://github.com/nvms/ti)
