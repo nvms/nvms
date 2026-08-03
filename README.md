@@ -14,6 +14,12 @@ Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode 
 
 Terminal-native coding agent with multi-provider model support, persistent and rewindable sessions, project-aware instructions, integrated development tools, MCP integration, and extensible commands and skills. Built with [trend](https://github.com/nvms/trendr) and [@prsm/ai](https://github.com/prsmjs/ai).
 
+### [siggie](https://github.com/nvms/siggie)
+
+![npm](https://img.shields.io/npm/v/siggie)
+
+Small, high-performance reactive runtime for JavaScript with signals, lazy computed values, effects, batching, and dynamic dependency tracking.
+
 ### [prsm](https://github.com/prsmjs)
 
 Small, focused utilities. All ESM.
@@ -80,12 +86,6 @@ Interactive 3D terrain generation explorer. Implements gradient-trick and DLA mo
 
 Zig-based PHP runtime with built-in HTTP server, package manager, test runner, formatter, and binary compiler.
 
-### [pyr](https://github.com/nvms/pyr)
-
-![ci](https://github.com/nvms/pyr/actions/workflows/ci.yml/badge.svg)
-
-Systems programming language with scripting ergonomics, built in Zig. Bytecode VM with NaN-boxed values, mark-sweep GC, arena-scoped memory for hot paths, green threads, algebraic types with pattern matching, UFCS, structural traits. Stdlib covers IO, networking, HTTP, TLS, and JSON. Ships with a package manager, formatter, and LSP.
-
 ### [gitcat](https://github.com/nvms/gitcat)
 
 Self-hosted git server written in fur. Push, clone, and browse repositories over HTTP with a built-in web interface for viewing commit history, diffs, and syntax-highlighted source.
@@ -139,3 +139,7 @@ Reversible JSON diffing, patching, and merging. The WASM serialization boundary 
 | [@jsondelta/diff](https://github.com/jsondelta/diff) | ![npm](https://img.shields.io/npm/v/@jsondelta/diff) | Structural JSON diffing with reversible deltas |
 | [@jsondelta/patch](https://github.com/jsondelta/patch) | ![npm](https://img.shields.io/npm/v/@jsondelta/patch) | Patch application and delta inversion |
 | [@jsondelta/merge](https://github.com/jsondelta/merge) | ![npm](https://img.shields.io/npm/v/@jsondelta/merge) | Three-way merge with conflict detection |
+
+### [pyr](https://github.com/nvms/pyr)
+
+Systems programming language with scripting ergonomics, built in Zig. Bytecode VM with NaN-boxed values, mark-sweep GC, arena-scoped memory for hot paths, green threads, algebraic types with pattern matching, UFCS, structural traits. Stdlib covers IO, networking, HTTP, TLS, and JSON. Ships with a package manager, formatter, and LSP.
