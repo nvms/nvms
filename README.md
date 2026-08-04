@@ -14,6 +14,10 @@ Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode 
 
 Terminal-native coding agent with multi-provider model support, persistent and rewindable sessions, project-aware instructions, integrated development tools, MCP integration, and extensible commands and skills. Built with [trend](https://github.com/nvms/trendr) and [@prsm/ai](https://github.com/prsmjs/ai).
 
+### [pico-night](https://github.com/nvms/pico-night)
+
+A dark Ghostty theme.
+
 ### [siggie](https://github.com/nvms/siggie)
 
 ![npm](https://img.shields.io/npm/v/siggie)
