@@ -120,6 +120,12 @@ Local MCP server that lets Claude manage a self-hosted Huly instance from a conv
 
 Live webcam mosaic with configurable square pixel regions and color update timing.
 
+### [gazehalo](https://github.com/nvms/gazehalo)
+
+[![test](https://github.com/nvms/gazehalo/actions/workflows/test.yml/badge.svg)](https://github.com/nvms/gazehalo/actions/workflows/test.yml)
+
+Private desktop application for local webcam gaze calibration and a click-through screen marker.
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
