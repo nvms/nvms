@@ -114,6 +114,12 @@ Pastel-toned Vue 3 component library covering primitives, forms, overlays, navig
 
 Local MCP server that lets Claude manage a self-hosted Huly instance from a conversation: reading and updating issues, tracking estimated and actual time, leaving comments, and working the planner.
 
+### [chromosaic](https://github.com/nvms/chromosaic)
+
+[![ci](https://github.com/nvms/chromosaic/actions/workflows/ci.yml/badge.svg)](https://github.com/nvms/chromosaic/actions/workflows/ci.yml)
+
+Live webcam mosaic with configurable square pixel regions and color update timing.
+
 ### [procmod](https://github.com/procmod)
 
 Composable runtime game instrumentation primitives for Rust. Process memory, pattern scanning, function hooking, struct mapping, and overlay rendering.
