@@ -14,6 +14,10 @@ Terminal UI renderer with JSX components and SolidJS-style signals. Direct-mode 
 
 Terminal-native coding agent with multi-provider model support, persistent and rewindable sessions, project-aware instructions, integrated development tools, MCP integration, and extensible commands and skills. Built with [trend](https://github.com/nvms/trendr) and [@prsm/ai](https://github.com/prsmjs/ai).
 
+### [Pico desktop](https://github.com/nvms/pico-releases/releases)
+
+Desktop coding agent for macOS, built on the same runtime as pico, with multiple live sessions, a built-in browser and terminal, and voice dictation.
+
 ### [pico-night](https://github.com/nvms/pico-night)
 
 A dark Ghostty theme.
